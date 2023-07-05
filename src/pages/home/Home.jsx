@@ -219,7 +219,7 @@ const diversityaccrossposition = [
   },
 ];
 
-const url ="http://localhost:8080"
+const url ="https://buildtogetherapi.onrender.com"
 
 const Home = () => {
 
